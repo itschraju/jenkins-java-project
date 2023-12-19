@@ -12,7 +12,7 @@
         <a href="#"><img src="images/logo.svg" alt="logo"></a>
     </nav>
     <div class="form-wrapper">
-    <h2>KALYAN NETFLIX SIGN IN V-14.0</h2>
+    <h2>SHIVA KALYAN NETFLIX SIGN IN V-14.0</h2>
         <form action="#">
             <div class="form-control">
                 <input type="text" required>
